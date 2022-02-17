@@ -1,0 +1,128 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "6ICI3",
+      "url": "board-1-6ICI3.png",
+      "newShot": false,
+      "lastEdited": 1645127964296,
+      "layers": {
+        "reference": {
+          "url": "board-1-6ICI3-reference.png",
+          "opacity": 0.75
+        },
+        "shot-generator": {
+          "url": "board-1-6ICI3-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-6ICI3-fill.png"
+        },
+        "tone": {
+          "url": "board-1-6ICI3-tone.png"
+        },
+        "pencil": {
+          "url": "board-1-6ICI3-pencil.png"
+        },
+        "ink": {
+          "url": "board-1-6ICI3-ink.png"
+        },
+        "notes": {
+          "url": "board-1-6ICI3-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 53564.063482415,
+      "dialogue": "",
+      "notes": "Child wakes up surrounded by family. Environment is a poor cold home",
+      "action": "Ch"
+    },
+    {
+      "uid": "9QNXV",
+      "url": "board-3-9QNXV.png",
+      "newShot": true,
+      "lastEdited": 1645130943920,
+      "layers": {
+        "reference": {
+          "url": "board-3-9QNXV-reference.png",
+          "opacity": 0.75
+        },
+        "ink": {
+          "url": "board-3-9QNXV-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-3-9QNXV-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-3-9QNXV-fill.png"
+        },
+        "tone": {
+          "url": "board-3-9QNXV-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-9QNXV-pencil.png"
+        },
+        "notes": {
+          "url": "board-3-9QNXV-notes.png"
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 2000,
+      "lineMileage": 13544.526301790247,
+      "notes": "Child is standing up"
+    },
+    {
+      "uid": "ZN7S2",
+      "url": "board-2-ZN7S2.png",
+      "newShot": false,
+      "lastEdited": 1645129257153,
+      "layers": {
+        "ink": {
+          "url": "board-2-ZN7S2-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-2-ZN7S2-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-2-ZN7S2-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-2-ZN7S2-fill.png"
+        },
+        "tone": {
+          "url": "board-2-ZN7S2-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-ZN7S2-pencil.png"
+        },
+        "notes": {
+          "url": "board-2-ZN7S2-notes.png"
+        }
+      },
+      "number": 3,
+      "shot": "2B",
+      "time": 4000,
+      "lineMileage": 43306.94229817103,
+      "notes": "Child has woken up and is confronted with happy dog"
+    },
+    {
+      "uid": "H0PZO",
+      "url": "board-4-H0PZO.png",
+      "newShot": false,
+      "lastEdited": 1645131331771,
+      "layers": {},
+      "shot": "2C",
+      "number": 4,
+      "time": 6000
+    }
+  ]
+}
