@@ -37,7 +37,7 @@
       "number": 1,
       "shot": "1A",
       "time": 0,
-      "lineMileage": 54094.72285515788,
+      "lineMileage": 95454.63918209697,
       "dialogue": "",
       "notes": "Child wakes up surrounded by family. Environment is a poor cold home",
       "action": ""
@@ -75,7 +75,7 @@
       "number": 2,
       "shot": "2A",
       "time": 2000,
-      "lineMileage": 23945.77991173958,
+      "lineMileage": 41530.30151853523,
       "notes": "Child is standing up and walking"
     },
     {
@@ -111,7 +111,7 @@
       "shot": "2B",
       "number": 3,
       "time": 4000,
-      "lineMileage": 18418.840391492107,
+      "lineMileage": 34105.56780369666,
       "notes": "Child is confronted with dog who wants to play and has ball in its mouth"
     },
     {
@@ -147,7 +147,7 @@
       "shot": "2C",
       "number": 4,
       "time": 6000,
-      "lineMileage": 31272.905176583692,
+      "lineMileage": 59431.57625400785,
       "notes": "Child plays fetch with dog and throws ball"
     },
     {
@@ -183,7 +183,7 @@
       "shot": "2D",
       "number": 5,
       "time": 8000,
-      "lineMileage": 12275.094662411742,
+      "lineMileage": 40879.12601144756,
       "notes": "Ball rolls to a harsh stop on mothers foot. Mother is holding picture frame and mourning"
     },
     {
@@ -291,7 +291,8 @@
       "shot": "4A",
       "number": 8,
       "time": 14000,
-      "lineMileage": 14013.13289366529
+      "lineMileage": 31386.313319844376,
+      "notes": "See the fear in the eyes of the Child. Dog and mom are far away from Child"
     },
     {
       "uid": "PB73G",
@@ -301,12 +302,68 @@
       "layers": {
         "ink": {
           "url": "board-9-PB73G-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-9-PB73G-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-9-PB73G-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-9-PB73G-fill.png"
+        },
+        "tone": {
+          "url": "board-9-PB73G-tone.png"
+        },
+        "pencil": {
+          "url": "board-9-PB73G-pencil.png"
+        },
+        "notes": {
+          "url": "board-9-PB73G-notes.png"
         }
       },
       "shot": "4B",
       "number": 9,
       "time": 16000,
-      "lineMileage": 2404.056777748772
+      "lineMileage": 217280.43873235176,
+      "notes": "Boom"
+    },
+    {
+      "uid": "YIJNT",
+      "url": "board-10-YIJNT.png",
+      "newShot": false,
+      "lastEdited": 1645588002963,
+      "layers": {
+        "ink": {
+          "url": "board-10-YIJNT-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-10-YIJNT-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-10-YIJNT-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-10-YIJNT-fill.png"
+        },
+        "tone": {
+          "url": "board-10-YIJNT-tone.png"
+        },
+        "pencil": {
+          "url": "board-10-YIJNT-pencil.png"
+        },
+        "notes": {
+          "url": "board-10-YIJNT-notes.png"
+        }
+      },
+      "shot": "4C",
+      "number": 10,
+      "time": 18000,
+      "lineMileage": 91754.14508849567
     }
   ]
 }
