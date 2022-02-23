@@ -39,13 +39,13 @@
       "time": 0,
       "lineMileage": 95454.63918209697,
       "dialogue": "",
-      "notes": "Child wakes up surrounded by family. Environment is a poor cold home",
+      "notes": "The child wakes up in a poor cold home",
       "action": ""
     },
     {
       "uid": "9QNXV",
       "url": "board-3-9QNXV.png",
-      "newShot": true,
+      "newShot": false,
       "lastEdited": 1645130943920,
       "layers": {
         "reference": {
@@ -73,10 +73,10 @@
         }
       },
       "number": 2,
-      "shot": "2A",
+      "shot": "1B",
       "time": 2000,
       "lineMileage": 41530.30151853523,
-      "notes": "Child is standing up and walking"
+      "notes": "The child is standing up and walking"
     },
     {
       "uid": "3IR2S",
@@ -108,11 +108,11 @@
           "url": "board-4-3IR2S-notes.png"
         }
       },
-      "shot": "2B",
+      "shot": "1C",
       "number": 3,
       "time": 4000,
       "lineMileage": 34105.56780369666,
-      "notes": "Child is confronted with dog who wants to play and has ball in its mouth"
+      "notes": "The child is confronted with dog who wants to play and has ball in its mouth"
     },
     {
       "uid": "H0PZO",
@@ -144,11 +144,11 @@
           "url": "board-4-H0PZO-notes.png"
         }
       },
-      "shot": "2C",
+      "shot": "1D",
       "number": 4,
       "time": 6000,
       "lineMileage": 59431.57625400785,
-      "notes": "Child plays fetch with dog and throws ball"
+      "notes": "The child plays fetch with dog and throws ball."
     },
     {
       "uid": "KRA7E",
@@ -180,16 +180,16 @@
           "url": "board-5-KRA7E-notes.png"
         }
       },
-      "shot": "2D",
+      "shot": "1E",
       "number": 5,
       "time": 8000,
-      "lineMileage": 40879.12601144756,
-      "notes": "Ball rolls to a harsh stop on mothers foot. Mother is holding picture frame and mourning"
+      "lineMileage": 40887.038963900646,
+      "notes": "The ball rolls to a harsh stop on mothers foot. Mother is holding picture frame and mourning"
     },
     {
       "uid": "XZWJI",
       "url": "board-6-XZWJI.png",
-      "newShot": true,
+      "newShot": false,
       "lastEdited": 1645558886667,
       "layers": {
         "ink": {
@@ -216,11 +216,11 @@
           "url": "board-6-XZWJI-notes.png"
         }
       },
-      "shot": "3A",
+      "shot": "1F",
       "number": 6,
       "time": 10000,
       "lineMileage": 42688.2079694308,
-      "notes": "\"Father\" is shown in picture frame, signifying the death. Tear drop falls on picture to confirm this."
+      "notes": "The \"Father\" is shown in picture frame, signifying the death. Tear drop falls on picture to confirm this."
     },
     {
       "uid": "WV7XV",
@@ -252,16 +252,16 @@
           "url": "board-8-WV7XV-notes.png"
         }
       },
-      "shot": "3B",
+      "shot": "1G",
       "number": 7,
       "time": 12000,
-      "lineMileage": 44040.63006867679,
-      "notes": "After tear falls plane comes into ear shot. Plane sounds like dog barking"
+      "lineMileage": 45212.941400702475,
+      "notes": "After a tear falls a plane comes into ear shot. The plane sounds like dog barking"
     },
     {
       "uid": "O9FRB",
       "url": "board-8-O9FRB.png",
-      "newShot": true,
+      "newShot": false,
       "lastEdited": 1645560411545,
       "layers": {
         "ink": {
@@ -288,11 +288,11 @@
           "url": "board-8-O9FRB-notes.png"
         }
       },
-      "shot": "4A",
+      "shot": "1H",
       "number": 8,
       "time": 14000,
-      "lineMileage": 31386.313319844376,
-      "notes": "See the fear in the eyes of the Child. Dog and mom are far away from Child"
+      "lineMileage": 31415.70304656431,
+      "notes": "You can see the fear in the eyes of the Child. The dog and mom are far away from the child."
     },
     {
       "uid": "PB73G",
@@ -324,11 +324,46 @@
           "url": "board-9-PB73G-notes.png"
         }
       },
-      "shot": "4B",
+      "shot": "1I",
       "number": 9,
       "time": 16000,
       "lineMileage": 217280.43873235176,
       "notes": "Boom"
+    },
+    {
+      "uid": "SWENU",
+      "url": "board-10-SWENU.png",
+      "newShot": true,
+      "lastEdited": 1645649664382,
+      "layers": {
+        "ink": {
+          "url": "board-10-SWENU-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-10-SWENU-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-10-SWENU-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-10-SWENU-fill.png"
+        },
+        "tone": {
+          "url": "board-10-SWENU-tone.png"
+        },
+        "pencil": {
+          "url": "board-10-SWENU-pencil.png"
+        },
+        "notes": {
+          "url": "board-10-SWENU-notes.png"
+        }
+      },
+      "shot": "2A",
+      "number": 10,
+      "time": 18000,
+      "lineMileage": 99482.68573368061
     },
     {
       "uid": "YIJNT",
@@ -360,10 +395,370 @@
           "url": "board-10-YIJNT-notes.png"
         }
       },
-      "shot": "4C",
-      "number": 10,
-      "time": 18000,
-      "lineMileage": 91754.14508849567
+      "shot": "2B",
+      "number": 11,
+      "time": 20000,
+      "lineMileage": 95308.13581216126,
+      "notes": "The child wakes up covered by rubble, the mother and the dog are nowhere to be seen.\n\nScene is covered in smoke"
+    },
+    {
+      "uid": "9V7DL",
+      "url": "board-11-9V7DL.png",
+      "newShot": false,
+      "lastEdited": 1645635580359,
+      "layers": {
+        "ink": {
+          "url": "board-11-9V7DL-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-11-9V7DL-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-11-9V7DL-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-11-9V7DL-fill.png"
+        },
+        "tone": {
+          "url": "board-11-9V7DL-tone.png"
+        },
+        "pencil": {
+          "url": "board-11-9V7DL-pencil.png"
+        },
+        "notes": {
+          "url": "board-11-9V7DL-notes.png"
+        }
+      },
+      "shot": "2C",
+      "number": 12,
+      "time": 22000,
+      "lineMileage": 15738.60233235318,
+      "notes": "The child struggles to push rubble off their body."
+    },
+    {
+      "uid": "MWRZF",
+      "url": "board-12-MWRZF.png",
+      "newShot": false,
+      "lastEdited": 1645636265390,
+      "layers": {
+        "ink": {
+          "url": "board-12-MWRZF-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-12-MWRZF-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-12-MWRZF-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-12-MWRZF-fill.png"
+        },
+        "tone": {
+          "url": "board-12-MWRZF-tone.png"
+        },
+        "pencil": {
+          "url": "board-12-MWRZF-pencil.png"
+        },
+        "notes": {
+          "url": "board-12-MWRZF-notes.png"
+        }
+      },
+      "shot": "2D",
+      "number": 13,
+      "time": 24000,
+      "lineMileage": 9164.208785768711,
+      "notes": "The child spins around. The dog and the mother are missing."
+    },
+    {
+      "uid": "E4TUB",
+      "url": "board-13-E4TUB.png",
+      "newShot": false,
+      "lastEdited": 1645636464551,
+      "layers": {
+        "ink": {
+          "url": "board-13-E4TUB-ink.png"
+        },
+        "pencil": {
+          "url": "board-13-E4TUB-pencil.png"
+        },
+        "reference": {
+          "url": "board-13-E4TUB-reference.png",
+          "opacity": 0.75
+        },
+        "shot-generator": {
+          "url": "board-13-E4TUB-shot-generator.png"
+        },
+        "fill": {
+          "url": "board-13-E4TUB-fill.png"
+        },
+        "tone": {
+          "url": "board-13-E4TUB-tone.png"
+        },
+        "notes": {
+          "url": "board-13-E4TUB-notes.png"
+        }
+      },
+      "shot": "2E",
+      "number": 14,
+      "time": 26000,
+      "lineMileage": 36949.51899850601,
+      "notes": "The child is still spinning and eventually spots the dogs nose in rubble. The dog is whimpering. Ringing starts when child sees dog."
+    },
+    {
+      "uid": "XFGR3",
+      "url": "board-14-XFGR3.png",
+      "newShot": false,
+      "lastEdited": 1645636918632,
+      "layers": {
+        "ink": {
+          "url": "board-14-XFGR3-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-14-XFGR3-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-14-XFGR3-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-14-XFGR3-fill.png"
+        },
+        "tone": {
+          "url": "board-14-XFGR3-tone.png"
+        },
+        "pencil": {
+          "url": "board-14-XFGR3-pencil.png"
+        },
+        "notes": {
+          "url": "board-14-XFGR3-notes.png"
+        }
+      },
+      "shot": "2F",
+      "number": 15,
+      "time": 28000,
+      "lineMileage": 23842.25938199205,
+      "notes": "The child has spotted the dogs nose. The child is in deep shock and devastation."
+    },
+    {
+      "uid": "7JV8Z",
+      "url": "board-15-7JV8Z.png",
+      "newShot": false,
+      "lastEdited": 1645637704290,
+      "layers": {
+        "ink": {
+          "url": "board-15-7JV8Z-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-15-7JV8Z-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-15-7JV8Z-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-15-7JV8Z-fill.png"
+        },
+        "tone": {
+          "url": "board-15-7JV8Z-tone.png"
+        },
+        "pencil": {
+          "url": "board-15-7JV8Z-pencil.png"
+        },
+        "notes": {
+          "url": "board-15-7JV8Z-notes.png"
+        }
+      },
+      "shot": "2G",
+      "number": 16,
+      "time": 30000,
+      "lineMileage": 46828.55324918616,
+      "notes": "The child is trying to pry rubble off of dog. Their efforts are fruitless. The child continues to dig. Slowly the dog's sounds get quieter."
+    },
+    {
+      "uid": "P3UTA",
+      "url": "board-17-P3UTA.png",
+      "newShot": false,
+      "lastEdited": 1645647128469,
+      "layers": {
+        "ink": {
+          "url": "board-17-P3UTA-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-17-P3UTA-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-17-P3UTA-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-17-P3UTA-fill.png"
+        },
+        "tone": {
+          "url": "board-17-P3UTA-tone.png"
+        },
+        "pencil": {
+          "url": "board-17-P3UTA-pencil.png"
+        },
+        "notes": {
+          "url": "board-17-P3UTA-notes.png"
+        }
+      },
+      "shot": "2H",
+      "number": 17,
+      "time": 32000,
+      "lineMileage": 52866.950413653714,
+      "notes": "The child cannot lift the rubble and the dog dies"
+    },
+    {
+      "uid": "BYIU3",
+      "url": "board-17-BYIU3.png",
+      "newShot": false,
+      "lastEdited": 1645647437108,
+      "layers": {
+        "ink": {
+          "url": "board-17-BYIU3-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-17-BYIU3-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-17-BYIU3-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-17-BYIU3-fill.png"
+        },
+        "tone": {
+          "url": "board-17-BYIU3-tone.png"
+        },
+        "pencil": {
+          "url": "board-17-BYIU3-pencil.png"
+        },
+        "notes": {
+          "url": "board-17-BYIU3-notes.png"
+        }
+      },
+      "shot": "2I",
+      "number": 18,
+      "time": 34000,
+      "lineMileage": 55715.05060942737,
+      "notes": "The child collapses backwards and suffers a CSR."
+    },
+    {
+      "uid": "7N59J",
+      "url": "board-18-7N59J.png",
+      "newShot": false,
+      "lastEdited": 1645647910779,
+      "layers": {
+        "ink": {
+          "url": "board-18-7N59J-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-18-7N59J-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-18-7N59J-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-18-7N59J-fill.png"
+        },
+        "tone": {
+          "url": "board-18-7N59J-tone.png"
+        },
+        "pencil": {
+          "url": "board-18-7N59J-pencil.png"
+        },
+        "notes": {
+          "url": "board-18-7N59J-notes.png"
+        }
+      },
+      "shot": "2J",
+      "number": 19,
+      "time": 36000,
+      "lineMileage": 8822.175780077605,
+      "notes": "Black Screen"
+    },
+    {
+      "uid": "1STKE",
+      "url": "board-19-1STKE.png",
+      "newShot": true,
+      "lastEdited": 1645648018195,
+      "layers": {
+        "ink": {
+          "url": "board-19-1STKE-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-19-1STKE-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-19-1STKE-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-19-1STKE-fill.png"
+        },
+        "tone": {
+          "url": "board-19-1STKE-tone.png"
+        },
+        "pencil": {
+          "url": "board-19-1STKE-pencil.png"
+        },
+        "notes": {
+          "url": "board-19-1STKE-notes.png"
+        }
+      },
+      "shot": "3A",
+      "number": 20,
+      "time": 38000,
+      "lineMileage": 92728.57911122806,
+      "notes": "The child is an an unfamiliar western environment (classroom). The child is overwhelmed and feels alone in a crowd."
+    },
+    {
+      "uid": "JIZBU",
+      "url": "board-20-JIZBU.png",
+      "newShot": true,
+      "lastEdited": 1645648858575,
+      "layers": {
+        "ink": {
+          "url": "board-20-JIZBU-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-20-JIZBU-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-20-JIZBU-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-20-JIZBU-fill.png"
+        },
+        "tone": {
+          "url": "board-20-JIZBU-tone.png"
+        },
+        "pencil": {
+          "url": "board-20-JIZBU-pencil.png"
+        },
+        "notes": {
+          "url": "board-20-JIZBU-notes.png"
+        }
+      },
+      "shot": "4A",
+      "number": 21,
+      "time": 40000,
+      "lineMileage": 103276.36419413354,
+      "notes": "An arm out-reaches in a comforting fashion. The child looks more at ease. Ringing stops"
     }
   ]
 }

@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="4">
+  <sequence id="sequence-1">
+    <uuid>5b14fec6-519a-43ca-a208-798d7e319c0e</uuid>
+    <rate>
+      <timebase>24</timebase>
+      <ntsc>FALSE</ntsc>
+    </rate>
+    <media>
+      <video>
+        <format>
+          <samplecharacteristics>
+            <rate>
+              <timebase>24</timebase>
+            </rate>
+            <!-- WIDTH -->
+            <width>1600</width>
+            <!-- HEIGHT -->
+            <height>900</height>
+            <anamorphic>FALSE</anamorphic>
+            <pixelaspectratio>square</pixelaspectratio>
+            <fielddominance>none</fielddominance>
+            <colordepth>24</colordepth>
+          </samplecharacteristics>
+        </format>
+        <track>
+          <clipitem id="clipitem-1">
+            <!-- id -->
+            <masterclipid>masterclip-1</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00001.png</name>
+            <description>Child wakes up. Environment is a poor cold home</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>0</start>
+            <!-- end time in frames (24fps) -->
+            <end>48</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-1">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00001.png</name>
+              <pathurl>./SyrianStoryBoard-board-00001.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-2">
+            <!-- id -->
+            <masterclipid>masterclip-2</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00002.png</name>
+            <description>Child is standing up and walking</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>48</start>
+            <!-- end time in frames (24fps) -->
+            <end>96</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-2">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00002.png</name>
+              <pathurl>./SyrianStoryBoard-board-00002.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-3">
+            <!-- id -->
+            <masterclipid>masterclip-3</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00003.png</name>
+            <description>Child is confronted with dog who wants to play and has ball in its mouth</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>96</start>
+            <!-- end time in frames (24fps) -->
+            <end>144</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-3">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00003.png</name>
+              <pathurl>./SyrianStoryBoard-board-00003.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-4">
+            <!-- id -->
+            <masterclipid>masterclip-4</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00004.png</name>
+            <description>Child plays fetch with dog and throws ball</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>144</start>
+            <!-- end time in frames (24fps) -->
+            <end>192</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-4">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00004.png</name>
+              <pathurl>./SyrianStoryBoard-board-00004.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-5">
+            <!-- id -->
+            <masterclipid>masterclip-5</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00005.png</name>
+            <description>Ball rolls to a harsh stop on mothers foot. Mother is holding picture frame and mourning</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>192</start>
+            <!-- end time in frames (24fps) -->
+            <end>240</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-5">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00005.png</name>
+              <pathurl>./SyrianStoryBoard-board-00005.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-6">
+            <!-- id -->
+            <masterclipid>masterclip-6</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00006.png</name>
+            <description>Father is shown in picture frame, signifying the death. Tear drop falls on picture to confirm this.</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>240</start>
+            <!-- end time in frames (24fps) -->
+            <end>288</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-6">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00006.png</name>
+              <pathurl>./SyrianStoryBoard-board-00006.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-7">
+            <!-- id -->
+            <masterclipid>masterclip-7</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00007.png</name>
+            <description>After tear falls plane comes into ear shot. Plane sounds like dog barking</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>288</start>
+            <!-- end time in frames (24fps) -->
+            <end>336</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-7">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00007.png</name>
+              <pathurl>./SyrianStoryBoard-board-00007.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-8">
+            <!-- id -->
+            <masterclipid>masterclip-8</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00008.png</name>
+            <description>See the fear in the eyes of the Child. Dog and mom are far away from Child</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>336</start>
+            <!-- end time in frames (24fps) -->
+            <end>384</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-8">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00008.png</name>
+              <pathurl>./SyrianStoryBoard-board-00008.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-9">
+            <!-- id -->
+            <masterclipid>masterclip-9</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00009.png</name>
+            <description>Boom</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>384</start>
+            <!-- end time in frames (24fps) -->
+            <end>432</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-9">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00009.png</name>
+              <pathurl>./SyrianStoryBoard-board-00009.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-10">
+            <!-- id -->
+            <masterclipid>masterclip-10</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00010.png</name>
+            <description>Child wakes up covered by rubble, mother and dog are nowhere to be seen.</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>432</start>
+            <!-- end time in frames (24fps) -->
+            <end>480</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-10">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00010.png</name>
+              <pathurl>./SyrianStoryBoard-board-00010.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-11">
+            <!-- id -->
+            <masterclipid>masterclip-11</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00011.png</name>
+            <description></description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>480</start>
+            <!-- end time in frames (24fps) -->
+            <end>528</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-11">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00011.png</name>
+              <pathurl>./SyrianStoryBoard-board-00011.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-12">
+            <!-- id -->
+            <masterclipid>masterclip-12</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00012.png</name>
+            <description>Child spins around. Dog and Mother are missing</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>528</start>
+            <!-- end time in frames (24fps) -->
+            <end>576</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-12">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00012.png</name>
+              <pathurl>./SyrianStoryBoard-board-00012.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-13">
+            <!-- id -->
+            <masterclipid>masterclip-13</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00013.png</name>
+            <description>Child is still spinning and eventually spots dogs nose in rubble.</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>576</start>
+            <!-- end time in frames (24fps) -->
+            <end>624</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-13">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00013.png</name>
+              <pathurl>./SyrianStoryBoard-board-00013.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-14">
+            <!-- id -->
+            <masterclipid>masterclip-14</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00014.png</name>
+            <description>Child has spotted dogs nose. Is in deep shock and devastation</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>624</start>
+            <!-- end time in frames (24fps) -->
+            <end>672</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-14">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00014.png</name>
+              <pathurl>./SyrianStoryBoard-board-00014.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+
+          <clipitem id="clipitem-15">
+            <!-- id -->
+            <masterclipid>masterclip-15</masterclipid>
+            <!-- set name if dialogue or action, otherwise filename -->
+            <name>SyrianStoryBoard-board-00015.png</name>
+            <description>Child is trying to pry rubble off of dog. Efforts are fruitless.</description>
+            <enabled>TRUE</enabled>
+            <duration>1294705</duration>
+            <rate>
+              <timebase>24</timebase>
+              <ntsc>FALSE</ntsc>
+            </rate>
+            <!-- start time in frames (24fps) -->
+            <start>672</start>
+            <!-- end time in frames (24fps) -->
+            <end>720</end>
+            <in>107892</in>
+            <out>107916</out>
+            <!-- file id -->
+            <file id="file-15">
+              <!-- filename -->
+              <name>SyrianStoryBoard-board-00015.png</name>
+              <pathurl>./SyrianStoryBoard-board-00015.png</pathurl>
+              <media>
+                <video>
+                  <samplecharacteristics>
+                    <!-- width -->
+                    <width>1600</width>
+                    <!-- height -->
+                    <height>900</height>
+                  </samplecharacteristics>
+                </video>
+              </media>
+            </file>
+            <labels>
+              <label2>Lavender</label2>
+            </labels>
+          </clipitem>
+
+          <!-- END OF CLIPS -->
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+        </track>
+        <track>
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+        </track>
+        <track>
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+        </track>
+      </video>
+      <audio>
+        <numOutputChannels>2</numOutputChannels>
+        <format>
+          <samplecharacteristics>
+            <depth>16</depth>
+            <samplerate>48000</samplerate>
+          </samplecharacteristics>
+        </format>
+        <outputs>
+          <group>
+            <index>1</index>
+            <numchannels>1</numchannels>
+            <downmix>0</downmix>
+            <channel>
+              <index>1</index>
+            </channel>
+          </group>
+          <group>
+            <index>2</index>
+            <numchannels>1</numchannels>
+            <downmix>0</downmix>
+            <channel>
+              <index>2</index>
+            </channel>
+          </group>
+        </outputs>
+        
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+    
+    
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+    
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
+        </track>
+
+
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="0" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>1</outputchannelindex>
+        </track>
+        <track TL.SQTrackAudioKeyframeStyle="0" TL.SQTrackShy="0" TL.SQTrackExpandedHeight="25" TL.SQTrackExpanded="0" MZ.TrackTargeted="1" PannerCurrentValue="0.5" PannerIsInverted="true" PannerStartKeyframe="-91445760000000000,0.5,0,0,0,0,0,0" PannerName="Balance" currentExplodedTrackIndex="1" totalExplodedTrackCount="2" premiereTrackType="Stereo">
+          <enabled>TRUE</enabled>
+          <locked>FALSE</locked>
+          <outputchannelindex>2</outputchannelindex>
+        </track>
+      </audio>
+    </media>
+  </sequence>
+</xmeml>
