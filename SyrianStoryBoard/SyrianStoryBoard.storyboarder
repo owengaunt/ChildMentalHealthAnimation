@@ -112,7 +112,7 @@
       "number": 3,
       "time": 4000,
       "lineMileage": 34105.56780369666,
-      "notes": "The child is confronted with dog who wants to play and has ball in its mouth"
+      "notes": "The child is confronted with dog who wants to play and has ball in its mouth."
     },
     {
       "uid": "H0PZO",
@@ -183,8 +183,8 @@
       "shot": "1E",
       "number": 5,
       "time": 8000,
-      "lineMileage": 40887.038963900646,
-      "notes": "The ball rolls to a harsh stop on mothers foot. Mother is holding picture frame and mourning"
+      "lineMileage": 42674.56398000402,
+      "notes": "The ball rolls to a harsh stop on mothers foot. Mother is holding picture frame + flowers and mourning."
     },
     {
       "uid": "XZWJI",
@@ -219,44 +219,44 @@
       "shot": "1F",
       "number": 6,
       "time": 10000,
-      "lineMileage": 42688.2079694308,
-      "notes": "The \"Father\" is shown in picture frame, signifying the death. Tear drop falls on picture to confirm this."
+      "lineMileage": 66534.12797084331,
+      "notes": "The \"Father\" is shown in picture frame, signifying the death."
     },
     {
-      "uid": "WV7XV",
-      "url": "board-8-WV7XV.png",
+      "uid": "YFIXN",
+      "url": "board-7-YFIXN.png",
       "newShot": false,
-      "lastEdited": 1645560341912,
+      "lastEdited": 1645717132464,
       "layers": {
         "ink": {
-          "url": "board-8-WV7XV-ink.png"
+          "url": "board-7-YFIXN-ink.png"
         },
         "shot-generator": {
-          "url": "board-8-WV7XV-shot-generator.png",
+          "url": "board-7-YFIXN-shot-generator.png",
           "opacity": 0.75
         },
         "reference": {
-          "url": "board-8-WV7XV-reference.png",
+          "url": "board-7-YFIXN-reference.png",
           "opacity": 0.75
         },
         "fill": {
-          "url": "board-8-WV7XV-fill.png"
+          "url": "board-7-YFIXN-fill.png"
         },
         "tone": {
-          "url": "board-8-WV7XV-tone.png"
+          "url": "board-7-YFIXN-tone.png"
         },
         "pencil": {
-          "url": "board-8-WV7XV-pencil.png"
+          "url": "board-7-YFIXN-pencil.png"
         },
         "notes": {
-          "url": "board-8-WV7XV-notes.png"
+          "url": "board-7-YFIXN-notes.png"
         }
       },
       "shot": "1G",
       "number": 7,
       "time": 12000,
-      "lineMileage": 45212.941400702475,
-      "notes": "After a tear falls a plane comes into ear shot. The plane sounds like dog barking"
+      "lineMileage": 71595.74053469929,
+      "notes": "Tear drop falls on picture to confirm that he is being mourned. \n\nPlane rumbling begins."
     },
     {
       "uid": "O9FRB",
@@ -291,8 +291,8 @@
       "shot": "1H",
       "number": 8,
       "time": 14000,
-      "lineMileage": 31415.70304656431,
-      "notes": "You can see the fear in the eyes of the Child. The dog and mom are far away from the child."
+      "lineMileage": 35093.819361755806,
+      "notes": "The plane begins to get louder and louder. Alarm starts blaring. You can see the fear in the eyes of the child. The dog and mom are far away from the child."
     },
     {
       "uid": "PB73G",
@@ -399,7 +399,7 @@
       "number": 11,
       "time": 20000,
       "lineMileage": 95308.13581216126,
-      "notes": "The child wakes up covered by rubble, the mother and the dog are nowhere to be seen.\n\nScene is covered in smoke"
+      "notes": "The child arises covered by rubble, the mother and the dog are nowhere to be seen.Scene is covered in smoke and dust."
     },
     {
       "uid": "9V7DL",
@@ -490,7 +490,8 @@
           "opacity": 0.75
         },
         "shot-generator": {
-          "url": "board-13-E4TUB-shot-generator.png"
+          "url": "board-13-E4TUB-shot-generator.png",
+          "opacity": 0.75
         },
         "fill": {
           "url": "board-13-E4TUB-fill.png"
@@ -614,7 +615,7 @@
       "number": 17,
       "time": 32000,
       "lineMileage": 52866.950413653714,
-      "notes": "The child cannot lift the rubble and the dog dies"
+      "notes": "The child cannot lift the rubble and the dog dies."
     },
     {
       "uid": "BYIU3",
@@ -758,7 +759,7 @@
       "number": 21,
       "time": 40000,
       "lineMileage": 103276.36419413354,
-      "notes": "An arm out-reaches in a comforting fashion. The child looks more at ease. Ringing stops"
+      "notes": "An arm out-reaches in a comforting fashion. The child looks more at ease. Ringing stops."
     }
   ]
 }
