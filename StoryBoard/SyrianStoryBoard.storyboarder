@@ -38,7 +38,8 @@
       "shot": "1A",
       "time": 0,
       "lineMileage": 102092.01576775676,
-      "notes": "The child is sleeping in a cold poor home"
+      "notes": "The child is sleeping in a cold poor home",
+      "duration": "1500"
     },
     {
       "uid": "ESMW1",
@@ -72,9 +73,47 @@
       },
       "number": 2,
       "shot": "1B",
-      "time": 2000,
-      "lineMileage": 111010.0800356013,
-      "notes": "The child is sleeping in a cold poor home"
+      "time": 1500,
+      "lineMileage": 115475.23645364167,
+      "notes": "The child wakes up",
+      "duration": "1500"
+    },
+    {
+      "uid": "85K80",
+      "url": "board-3-85K80.png",
+      "newShot": true,
+      "lastEdited": 1646149430487,
+      "layers": {
+        "reference": {
+          "url": "board-3-85K80-reference.png",
+          "opacity": 0.75
+        },
+        "ink": {
+          "url": "board-3-85K80-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-3-85K80-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-3-85K80-fill.png"
+        },
+        "tone": {
+          "url": "board-3-85K80-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-85K80-pencil.png"
+        },
+        "notes": {
+          "url": "board-3-85K80-notes.png"
+        }
+      },
+      "number": 3,
+      "shot": "2A",
+      "time": 3000,
+      "lineMileage": 143172.7373603039,
+      "notes": "The child stands up.",
+      "duration": "8000"
     },
     {
       "uid": "3IR2S",
@@ -106,11 +145,12 @@
           "url": "board-4-3IR2S-notes.png"
         }
       },
-      "shot": "1C",
-      "number": 3,
-      "time": 4000,
-      "lineMileage": 34105.56780369666,
-      "notes": "The child is confronted with dog who wants to play and has ball in its mouth."
+      "shot": "2B",
+      "number": 4,
+      "time": 11000,
+      "lineMileage": 34411.33599486704,
+      "notes": "The child is confronted with dog who wants to play and has ball in its mouth.",
+      "duration": "4000"
     },
     {
       "uid": "H0PZO",
@@ -142,16 +182,53 @@
           "url": "board-4-H0PZO-notes.png"
         }
       },
-      "shot": "1D",
-      "number": 4,
-      "time": 6000,
-      "lineMileage": 59431.57625400785,
-      "notes": "The child plays fetch with dog and throws ball."
+      "shot": "2C",
+      "number": 5,
+      "time": 15000,
+      "lineMileage": 60006.46898914063,
+      "notes": "The child plays fetch with dog and throws ball.",
+      "duration": "8500"
+    },
+    {
+      "uid": "ODAGF",
+      "url": "board-6-ODAGF.png",
+      "newShot": false,
+      "lastEdited": 1646166805129,
+      "layers": {
+        "ink": {
+          "url": "board-6-ODAGF-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-6-ODAGF-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-6-ODAGF-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-6-ODAGF-fill.png"
+        },
+        "tone": {
+          "url": "board-6-ODAGF-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-ODAGF-pencil.png"
+        },
+        "notes": {
+          "url": "board-6-ODAGF-notes.png"
+        }
+      },
+      "shot": "2D",
+      "number": 6,
+      "time": 23500,
+      "lineMileage": 13167.141754005786,
+      "duration": "3000"
     },
     {
       "uid": "KRA7E",
       "url": "board-5-KRA7E.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645548649142,
       "layers": {
         "shot-generator": {
@@ -178,16 +255,17 @@
           "url": "board-5-KRA7E-notes.png"
         }
       },
-      "shot": "1E",
-      "number": 5,
-      "time": 8000,
-      "lineMileage": 61935.80868698387,
-      "notes": "The ball rolls to a harsh stop on mothers foot. Mother is holding picture frame + flowers and mourning."
+      "shot": "3A",
+      "number": 7,
+      "time": 26500,
+      "lineMileage": 124826.00067368025,
+      "notes": "The ball rolls to a harsh stop on the mothers foot. ",
+      "duration": "4000"
     },
     {
       "uid": "XZWJI",
       "url": "board-6-XZWJI.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645558886667,
       "layers": {
         "ink": {
@@ -214,16 +292,17 @@
           "url": "board-6-XZWJI-notes.png"
         }
       },
-      "shot": "1F",
-      "number": 6,
-      "time": 10000,
-      "lineMileage": 66534.12797084331,
-      "notes": "The \"Father\" is shown in picture frame, signifying the death."
+      "shot": "4A",
+      "number": 8,
+      "time": 30500,
+      "lineMileage": 100695.3308721405,
+      "notes": "Mother goes to pick up ball. Slight rumbling begins. Mother has heirloom (necklace or something)",
+      "duration": "3000"
     },
     {
       "uid": "YFIXN",
       "url": "board-7-YFIXN.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645717132464,
       "layers": {
         "ink": {
@@ -250,52 +329,91 @@
           "url": "board-7-YFIXN-notes.png"
         }
       },
-      "shot": "1G",
-      "number": 7,
-      "time": 12000,
-      "lineMileage": 71595.74053469929,
-      "notes": "Tear drop falls on picture to confirm that he is being mourned. \n\nPlane rumbling begins."
+      "shot": "5A",
+      "number": 9,
+      "time": 33500,
+      "lineMileage": 120114.04562791923,
+      "notes": "Mother reaches for ball but it begins to roll away as rumbling begins",
+      "duration": "5000"
     },
     {
-      "uid": "O9FRB",
-      "url": "board-8-O9FRB.png",
-      "newShot": false,
-      "lastEdited": 1645560411545,
+      "uid": "FO1HO",
+      "url": "board-9-FO1HO.png",
+      "newShot": true,
+      "lastEdited": 1646150260607,
       "layers": {
-        "ink": {
-          "url": "board-8-O9FRB-ink.png"
-        },
-        "shot-generator": {
-          "url": "board-8-O9FRB-shot-generator.png",
+        "reference": {
+          "url": "board-9-FO1HO-reference.png",
           "opacity": 0.75
         },
-        "reference": {
-          "url": "board-8-O9FRB-reference.png",
+        "ink": {
+          "url": "board-9-FO1HO-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-9-FO1HO-shot-generator.png",
           "opacity": 0.75
         },
         "fill": {
-          "url": "board-8-O9FRB-fill.png"
+          "url": "board-9-FO1HO-fill.png"
         },
         "tone": {
-          "url": "board-8-O9FRB-tone.png"
+          "url": "board-9-FO1HO-tone.png"
         },
         "pencil": {
-          "url": "board-8-O9FRB-pencil.png"
+          "url": "board-9-FO1HO-pencil.png"
         },
         "notes": {
-          "url": "board-8-O9FRB-notes.png"
+          "url": "board-9-FO1HO-notes.png"
         }
       },
-      "shot": "1H",
-      "number": 8,
-      "time": 14000,
-      "lineMileage": 35093.819361755806,
-      "notes": "The plane begins to get louder and louder. Alarm starts blaring. You can see the fear in the eyes of the child. The dog and mom are far away from the child."
+      "number": 10,
+      "shot": "6A",
+      "time": 38500,
+      "lineMileage": 176920.65345843672,
+      "notes": "The ball rolls away. Mother stands up and looks extremely worried.",
+      "duration": "5000"
+    },
+    {
+      "uid": "42B6X",
+      "url": "board-10-42B6X.png",
+      "newShot": false,
+      "lastEdited": 1646153642163,
+      "layers": {
+        "ink": {
+          "url": "board-10-42B6X-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-10-42B6X-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-10-42B6X-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-10-42B6X-fill.png"
+        },
+        "tone": {
+          "url": "board-10-42B6X-tone.png"
+        },
+        "pencil": {
+          "url": "board-10-42B6X-pencil.png"
+        },
+        "notes": {
+          "url": "board-10-42B6X-notes.png"
+        }
+      },
+      "shot": "6B",
+      "number": 11,
+      "time": 43500,
+      "lineMileage": 134118.48571593355,
+      "notes": "The plane begins to get louder and louder. Alarm starts blaring. You can see the fear in the eyes of the child. The dog and mom are far away from the child.",
+      "duration": "6000"
     },
     {
       "uid": "PB73G",
       "url": "board-9-PB73G.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645561336317,
       "layers": {
         "ink": {
@@ -322,16 +440,17 @@
           "url": "board-9-PB73G-notes.png"
         }
       },
-      "shot": "1I",
-      "number": 9,
-      "time": 16000,
+      "shot": "7A",
+      "number": 12,
+      "time": 49500,
       "lineMileage": 217280.43873235176,
-      "notes": "Boom"
+      "notes": "Boom",
+      "duration": "1000"
     },
     {
       "uid": "SWENU",
       "url": "board-10-SWENU.png",
-      "newShot": true,
+      "newShot": false,
       "lastEdited": 1645649664382,
       "layers": {
         "ink": {
@@ -358,15 +477,16 @@
           "url": "board-10-SWENU-notes.png"
         }
       },
-      "shot": "2A",
-      "number": 10,
-      "time": 18000,
-      "lineMileage": 99482.68573368061
+      "shot": "7B",
+      "number": 13,
+      "time": 50500,
+      "lineMileage": 99482.68573368061,
+      "duration": "5000"
     },
     {
       "uid": "YIJNT",
       "url": "board-10-YIJNT.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645588002963,
       "layers": {
         "ink": {
@@ -393,16 +513,17 @@
           "url": "board-10-YIJNT-notes.png"
         }
       },
-      "shot": "2B",
-      "number": 11,
-      "time": 20000,
-      "lineMileage": 95308.13581216126,
-      "notes": "The child arises covered by rubble, the mother and the dog are nowhere to be seen.Scene is covered in smoke and dust."
+      "shot": "8A",
+      "number": 14,
+      "time": 55500,
+      "lineMileage": 95330.22715851643,
+      "notes": "The child arises covered by rubble, the mother and the dog are nowhere to be seen.Scene is covered in smoke and dust. Red ball and mothers heirloom is visible.",
+      "duration": "2000"
     },
     {
       "uid": "9V7DL",
       "url": "board-11-9V7DL.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645635580359,
       "layers": {
         "ink": {
@@ -429,16 +550,17 @@
           "url": "board-11-9V7DL-notes.png"
         }
       },
-      "shot": "2C",
-      "number": 12,
-      "time": 22000,
+      "shot": "9A",
+      "number": 15,
+      "time": 57500,
       "lineMileage": 15738.60233235318,
-      "notes": "The child struggles to push rubble off their body."
+      "notes": "The child struggles to push rubble off their body.",
+      "duration": "10000"
     },
     {
       "uid": "MWRZF",
       "url": "board-12-MWRZF.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645636265390,
       "layers": {
         "ink": {
@@ -465,16 +587,17 @@
           "url": "board-12-MWRZF-notes.png"
         }
       },
-      "shot": "2D",
-      "number": 13,
-      "time": 24000,
+      "shot": "10A",
+      "number": 16,
+      "time": 67500,
       "lineMileage": 9164.208785768711,
-      "notes": "The child spins around. The dog and the mother are missing."
+      "notes": "The child spins around. The dog and the mother are missing.",
+      "duration": "8000"
     },
     {
       "uid": "E4TUB",
       "url": "board-13-E4TUB.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645636464551,
       "layers": {
         "ink": {
@@ -501,16 +624,17 @@
           "url": "board-13-E4TUB-notes.png"
         }
       },
-      "shot": "2E",
-      "number": 14,
-      "time": 26000,
+      "shot": "11A",
+      "number": 17,
+      "time": 75500,
       "lineMileage": 100315.94201228855,
-      "notes": "The child is still spinning and eventually hears the dog in the rubble. The dog is whimpering. Ringing starts when child sees dog."
+      "notes": "The child is still spinning and eventually hears the dog in the rubble. The dog is whimpering. Ringing starts when child hears dog.",
+      "duration": "4000"
     },
     {
       "uid": "XFGR3",
       "url": "board-14-XFGR3.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645636918632,
       "layers": {
         "ink": {
@@ -537,16 +661,17 @@
           "url": "board-14-XFGR3-notes.png"
         }
       },
-      "shot": "2F",
-      "number": 15,
-      "time": 28000,
+      "shot": "12A",
+      "number": 18,
+      "time": 79500,
       "lineMileage": 23842.25938199205,
-      "notes": "The child has spotted the dogs nose. The child is in deep shock and devastation."
+      "notes": "The child has spotted the dogs nose. The child is in deep shock and devastation.",
+      "duration": "3000"
     },
     {
       "uid": "7JV8Z",
       "url": "board-15-7JV8Z.png",
-      "newShot": false,
+      "newShot": true,
       "lastEdited": 1645637704290,
       "layers": {
         "ink": {
@@ -573,11 +698,12 @@
           "url": "board-15-7JV8Z-notes.png"
         }
       },
-      "shot": "2G",
-      "number": 16,
-      "time": 30000,
-      "lineMileage": 182368.77133669794,
-      "notes": "The child is trying to pry rubble off of dog. Their efforts are fruitless. The child continues to dig. Slowly the dog's sounds get quieter."
+      "shot": "13A",
+      "number": 19,
+      "time": 82500,
+      "lineMileage": 182886.39911570202,
+      "notes": "The child is trying to pry rubble off of dog. Their efforts are fruitless. The child continues to dig. Slowly the dog's sounds get quieter.",
+      "duration": "5000"
     },
     {
       "uid": "P3UTA",
@@ -609,11 +735,12 @@
           "url": "board-17-P3UTA-notes.png"
         }
       },
-      "shot": "2H",
-      "number": 17,
-      "time": 32000,
-      "lineMileage": 129452.55517447139,
-      "notes": "The child cannot lift the rubble and the dog dies."
+      "shot": "13B",
+      "number": 20,
+      "time": 87500,
+      "lineMileage": 130716.64045930772,
+      "notes": "The child cannot lift the rubble and the dog dies.",
+      "duration": "5000"
     },
     {
       "uid": "BYIU3",
@@ -645,11 +772,12 @@
           "url": "board-17-BYIU3-notes.png"
         }
       },
-      "shot": "2I",
-      "number": 18,
-      "time": 34000,
-      "lineMileage": 73731.35552439543,
-      "notes": "The child collapses backwards and suffers a CSR. IN POV SHOT"
+      "shot": "13C",
+      "number": 21,
+      "time": 92500,
+      "lineMileage": 140054.68927352352,
+      "notes": "The child collapses backwards and hits head. IN POV SHOT",
+      "duration": "6000"
     },
     {
       "uid": "7N59J",
@@ -681,11 +809,12 @@
           "url": "board-18-7N59J-notes.png"
         }
       },
-      "shot": "2J",
-      "number": 19,
-      "time": 36000,
+      "shot": "13D",
+      "number": 22,
+      "time": 98500,
       "lineMileage": 8822.175780077605,
-      "notes": "Black Screen"
+      "notes": "Time advances. Passing of time (clockwise)",
+      "duration": "3000"
     },
     {
       "uid": "1STKE",
@@ -717,16 +846,17 @@
           "url": "board-19-1STKE-notes.png"
         }
       },
-      "shot": "3A",
-      "number": 20,
-      "time": 38000,
-      "lineMileage": 92728.57911122806,
-      "notes": "The child is an an unfamiliar western environment (classroom). The child is overwhelmed and feels alone in a crowd."
+      "shot": "14A",
+      "number": 23,
+      "time": 101500,
+      "lineMileage": 92730.99399663892,
+      "notes": "The child is an an unfamiliar western environment (classroom). The child is overwhelmed and feels alone in a crowd.\n\nKid is older (same clothing but older)",
+      "duration": "10000"
     },
     {
       "uid": "JIZBU",
       "url": "board-20-JIZBU.png",
-      "newShot": true,
+      "newShot": false,
       "lastEdited": 1645648858575,
       "layers": {
         "ink": {
@@ -753,11 +883,49 @@
           "url": "board-20-JIZBU-notes.png"
         }
       },
-      "shot": "4A",
-      "number": 21,
-      "time": 40000,
+      "shot": "14B",
+      "number": 24,
+      "time": 111500,
       "lineMileage": 103276.36419413354,
-      "notes": "An arm out-reaches in a comforting fashion. The child looks more at ease. Ringing stops."
+      "notes": "An arm out-reaches in a comforting fashion. The child looks more at ease. Ringing stops.",
+      "duration": "2000"
+    },
+    {
+      "uid": "RCJLY",
+      "url": "board-24-RCJLY.png",
+      "newShot": false,
+      "lastEdited": 1646166700711,
+      "layers": {
+        "ink": {
+          "url": "board-24-RCJLY-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-24-RCJLY-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-24-RCJLY-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-24-RCJLY-fill.png"
+        },
+        "tone": {
+          "url": "board-24-RCJLY-tone.png"
+        },
+        "pencil": {
+          "url": "board-24-RCJLY-pencil.png"
+        },
+        "notes": {
+          "url": "board-24-RCJLY-notes.png"
+        }
+      },
+      "shot": "14C",
+      "number": 25,
+      "time": 113500,
+      "lineMileage": 8822.175780077605,
+      "notes": "",
+      "duration": "2000"
     }
   ]
 }
