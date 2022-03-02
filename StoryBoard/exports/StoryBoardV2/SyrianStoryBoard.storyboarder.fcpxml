@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.6">
+    <resources>
+      <format id="r1" frameDuration="100/2400s" width="1600" height="900"/>
+      <format id="r2" name="FFVideoFormatRateUndefined" width="1600" height="900"/>
+      <format id="r3" name="FFVideoFormatRateUndefined" />
+      <asset id="r4" name="SyrianStoryBoard-board-00001.png" src="./SyrianStoryBoard-board-00001.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r5" name="SyrianStoryBoard-board-00002.png" src="./SyrianStoryBoard-board-00002.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r6" name="SyrianStoryBoard-board-00003.png" src="./SyrianStoryBoard-board-00003.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r7" name="SyrianStoryBoard-board-00004.png" src="./SyrianStoryBoard-board-00004.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r8" name="SyrianStoryBoard-board-00005.png" src="./SyrianStoryBoard-board-00005.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r9" name="SyrianStoryBoard-board-00006.png" src="./SyrianStoryBoard-board-00006.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r10" name="SyrianStoryBoard-board-00007.png" src="./SyrianStoryBoard-board-00007.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r11" name="SyrianStoryBoard-board-00008.png" src="./SyrianStoryBoard-board-00008.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r12" name="SyrianStoryBoard-board-00009.png" src="./SyrianStoryBoard-board-00009.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r13" name="SyrianStoryBoard-board-00010.png" src="./SyrianStoryBoard-board-00010.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r14" name="SyrianStoryBoard-board-00011.png" src="./SyrianStoryBoard-board-00011.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r15" name="SyrianStoryBoard-board-00012.png" src="./SyrianStoryBoard-board-00012.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r16" name="SyrianStoryBoard-board-00013.png" src="./SyrianStoryBoard-board-00013.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r17" name="SyrianStoryBoard-board-00014.png" src="./SyrianStoryBoard-board-00014.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r18" name="SyrianStoryBoard-board-00015.png" src="./SyrianStoryBoard-board-00015.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r19" name="SyrianStoryBoard-board-00016.png" src="./SyrianStoryBoard-board-00016.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r20" name="SyrianStoryBoard-board-00017.png" src="./SyrianStoryBoard-board-00017.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r21" name="SyrianStoryBoard-board-00018.png" src="./SyrianStoryBoard-board-00018.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r22" name="SyrianStoryBoard-board-00019.png" src="./SyrianStoryBoard-board-00019.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r23" name="SyrianStoryBoard-board-00020.png" src="./SyrianStoryBoard-board-00020.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r24" name="SyrianStoryBoard-board-00021.png" src="./SyrianStoryBoard-board-00021.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r25" name="SyrianStoryBoard-board-00022.png" src="./SyrianStoryBoard-board-00022.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r26" name="SyrianStoryBoard-board-00023.png" src="./SyrianStoryBoard-board-00023.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r27" name="SyrianStoryBoard-board-00024.png" src="./SyrianStoryBoard-board-00024.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+      <asset id="r28" name="SyrianStoryBoard-board-00025.png" src="./SyrianStoryBoard-board-00025.png" start="0s" duration="0s" hasVideo="1" format="r2" />
+    </resources>
+    <library>
+        <event name="Storyboarder">
+            <project name="SyrianStoryBoard">
+                <sequence format="r1" renderColorSpace="Rec. 709">
+                    <spine>
+                        <video name="1A" offset="0s" ref="r4" duration="300/200s" start="0s"></video>
+                        <video name="1B" offset="300/200s" ref="r5" duration="300/200s" start="0s"></video>
+                        <video name="2A" offset="3s" ref="r6" duration="8s" start="0s"></video>
+                        <video name="2B" offset="11s" ref="r7" duration="4s" start="0s"></video>
+                        <video name="2C" offset="15s" ref="r8" duration="1700/200s" start="0s"></video>
+                        <video name="2D" offset="4700/200s" ref="r9" duration="3s" start="0s"></video>
+                        <video name="3A" offset="5300/200s" ref="r10" duration="4s" start="0s"></video>
+                        <video name="4A" offset="6100/200s" ref="r11" duration="3s" start="0s"></video>
+                        <video name="5A" offset="6700/200s" ref="r12" duration="5s" start="0s"></video>
+                        <video name="6A" offset="7700/200s" ref="r13" duration="5s" start="0s"></video>
+                        <video name="6B" offset="8700/200s" ref="r14" duration="6s" start="0s"></video>
+                        <video name="7A" offset="9900/200s" ref="r15" duration="1s" start="0s"></video>
+                        <video name="7B" offset="10100/200s" ref="r16" duration="5s" start="0s"></video>
+                        <video name="8A" offset="11100/200s" ref="r17" duration="2s" start="0s"></video>
+                        <video name="9A" offset="11500/200s" ref="r18" duration="10s" start="0s"></video>
+                        <video name="10A" offset="13500/200s" ref="r19" duration="8s" start="0s"></video>
+                        <video name="11A" offset="15100/200s" ref="r20" duration="4s" start="0s"></video>
+                        <video name="12A" offset="15900/200s" ref="r21" duration="3s" start="0s"></video>
+                        <video name="13A" offset="16500/200s" ref="r22" duration="5s" start="0s"></video>
+                        <video name="13B" offset="17500/200s" ref="r23" duration="5s" start="0s"></video>
+                        <video name="13C" offset="18500/200s" ref="r24" duration="6s" start="0s"></video>
+                        <video name="13D" offset="19700/200s" ref="r25" duration="3s" start="0s"></video>
+                        <video name="14A" offset="20300/200s" ref="r26" duration="10s" start="0s"></video>
+                        <video name="14B" offset="22300/200s" ref="r27" duration="2s" start="0s"></video>
+                        <video name="14C" offset="22700/200s" ref="r28" duration="2s" start="0s"></video>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
